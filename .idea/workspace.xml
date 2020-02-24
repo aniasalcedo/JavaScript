@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f833aa9-de39-4af4-99b1-20c22251a18d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Playground/types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playground/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground/node-example.js" beforeDir="false" afterPath="$PROJECT_DIR$/Playground/node-example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground/variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/Playground/variables.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YBgLMu6JUPphujepVUoCazOnlG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f833aa9-de39-4af4-99b1-20c22251a18d" name="Default Changelist" comment="" />
+      <created>1582421344363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582421344363</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hey message">
+      <created>1582421735032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582421735032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learning JS">
+      <created>1582421997797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582421997797</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learning about variables">
+      <created>1582465170079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582465170079</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NODE.js">
+      <created>1582465189743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582465189743</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Variables">
+      <created>1582465716926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582465716926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Variables">
+      <created>1582465814684</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582465814684</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Hey message" />
+    <MESSAGE value="Learning JS" />
+    <MESSAGE value="Learning about variables" />
+    <MESSAGE value="NODE.js" />
+    <MESSAGE value="Variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="8" key="CommitChangelistDialog2" timestamp="1582465813725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="808" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582465813725" />
+    <state x="518" y="39" key="SettingsEditor" timestamp="1582467166467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="39" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582467166467" />
+    <state x="722" y="146" key="Vcs.Push.Dialog.v2" timestamp="1582465816184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582465816184" />
+  </component>
+</project>
