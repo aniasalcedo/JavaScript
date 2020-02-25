@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f833aa9-de39-4af4-99b1-20c22251a18d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Playground/types.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Playground/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playground/node-example.js" beforeDir="false" afterPath="$PROJECT_DIR$/Playground/node-example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playground/variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/Playground/variables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
