@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="../base.css" />
+  </head>
+
+  <body>
+    <script>
+      function outer() {
+        const outerVar = "Hey I am the outer Var!";
+        function inner() {
+          const innerVar = "Hey I am the inner Var!";
+          console.log(innerVar);
+          console.log(outerVar);
+        }
+        return inner;
+      }
+      const innerFn = outer();
+      innerFn();
+
+      // the scope chain will be keep going up. There is no outer var in innerVar function so it has to go level up
+      //
+
+      //Closure - when we run a function outside of it it is still able to access it.
+      //JS is able to create functions outside of functions and
+      //still reach outside to the parent scope.
+
+      //The idea of closure: after running the function it is closed but we are still able to access whatever is between the {}
+
+      function createGreeting(greeting = "") {
+        const myGreet = greeting.toUpperCase();
+        return function(name) {
+          return `${myGreet} ${name}`;
+        };
+      }
+
+      const sayHello = createGreeting("hello");
+      const sayHey = createGreeting("hey");
+      console.log(sayHello("wes"));
+    </script>
+  </body>
+</html>
