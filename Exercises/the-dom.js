@@ -13,3 +13,9 @@ pic.classList.add("dog");
 console.log(pic.classList);
 
 pic.alt = "Cute Puppy"; //for people who use screen readers.
+//setter above
+//getter below
+console.log(pic.alt);
+
+pic.setAttribute("alt", "Really Cute Puppy");
+console.log(pic.getAttribute("alt"));
