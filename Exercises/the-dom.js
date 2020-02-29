@@ -19,3 +19,7 @@ console.log(pic.alt);
 
 pic.setAttribute("alt", "Really Cute Puppy");
 console.log(pic.getAttribute("alt"));
+
+const custom = document.querySelector(".custom");
+console.log(custom.dataset);
+//it will give us property values of an object
