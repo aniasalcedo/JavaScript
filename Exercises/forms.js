@@ -36,3 +36,8 @@ signupForm.name.addEventListener("keyup", logEvent); //new value put in the inpu
 signupForm.name.addEventListener("keydown", logEvent); //curent value
 signupForm.name.addEventListener("focus", logEvent); //when you focus into an input box
 signupForm.name.addEventListener("blur", logEvent); // when you focus out of an input box
+
+const photo = document.querySelector(".photo");
+photo.addEventListener("click", function() {
+  console.log("You cliked the photo");
+});
