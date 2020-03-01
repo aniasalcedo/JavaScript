@@ -18,26 +18,13 @@ coolButton.addEventListener("click", hooray);
 
 const buyButtons = document.querySelectorAll("button.buy");
 
-function handleBuyButtonClick() {
-  console.log("You are buying it!");
+function handleBuyButtonClick(event) {
+  const button = event.target;
+  // console.log(button.textContent);
+  // console.log(parseFloat(event.target));
+  console.log(event.currentTarget); //used more often
 }
 
 buyButtons.forEach(function(buyButton) {
   buyButton.addEventListener("click", handleBuyButtonClick);
 });
-
-// function buyItem() {
-//   console.log("Buying item");
-// }
-// buyButtons.forEach(function(buyButton) {
-//   //this can be called anything, not only buyButton
-//   console.log("Binding the buy button");
-//   buyButton.addEventListener("click", buyItem);
-// });
-
-//arrow function for the handler
-//buyButtons.forEarch((button) => {
-//    button.addEventListener('click', () => {
-//       console.log('You Cliked it');
-//    })
-//})
