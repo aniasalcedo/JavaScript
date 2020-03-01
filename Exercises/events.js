@@ -1,6 +1,5 @@
 const butts = document.querySelector(".butts");
 const coolButton = document.querySelector(".cool");
-const buyButtons = document.querySelectorAll("button.buy");
 
 function handleClick() {
   console.log("IT GOT CICKED!!!");
@@ -17,14 +16,24 @@ coolButton.addEventListener("click", hooray);
 
 // Listen on multiple items
 
-function buyItem() {
-  console.log("Buying item");
+const buyButtons = document.querySelectorAll("button.buy");
+
+function handleBuyButtonClick() {
+  console.log("You are buying it!");
 }
+
 buyButtons.forEach(function(buyButton) {
-  //this can be called anything, not only buyButton
-  console.log("Binding the buy button");
-  buyButton.addEventListener("click", buyItem);
+  buyButton.addEventListener("click", handleBuyButtonClick);
 });
+
+// function buyItem() {
+//   console.log("Buying item");
+// }
+// buyButtons.forEach(function(buyButton) {
+//   //this can be called anything, not only buyButton
+//   console.log("Binding the buy button");
+//   buyButton.addEventListener("click", buyItem);
+// });
 
 //arrow function for the handler
 //buyButtons.forEarch((button) => {
